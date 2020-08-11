@@ -1,3 +1,9 @@
+# Gabriel Taborda Farias
+
+## E aí galera!
+
+<p align="center">Estou me graduando em Ciência da Computação na URI - Santo Ângelo, ultimamente estou seguindo a abordagem de estudo da Rocketseat, que propõe a stack Javascript: NodeJS + ReactNative e React. Com essa stack é possível entregar soluções para web e mobile, o meu objetivo é me aprofundar na stack e posteriormente virar um programador Full Stack.</p>
+
 <div>
   <a href="https://www.linkedin.com/in/gabriel-taborda-farias-26b9b8160/">
     <img src="https://img.shields.io/badge/-Gabriel Taborda Farias-0077b5?style=for-the-badge&labelColor=0077b5&logo=linkedin&logoColor=white"/>
