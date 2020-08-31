@@ -2,7 +2,7 @@
 
 <p align="center">Estou me graduando em Ciência da Computação na URI - Santo Ângelo, ultimamente estou seguindo a abordagem de estudo da Rocketseat, que propõe a stack Javascript: NodeJS + ReactNative e React. Com essa stack é possível entregar soluções para web e mobile, o meu objetivo é me aprofundar na stack e posteriormente virar um programador Full Stack.</p>
 
-![](https://github-readme-stats.vercel.app/api?username=Gabao-Farias)
+![](https://github-readme-stats.vercel.app/api?username=Gabao-Farias&show_icons=true&theme=radical)
 
 <div>
   <a href="https://www.linkedin.com/in/gabriel-taborda-farias-26b9b8160/">
