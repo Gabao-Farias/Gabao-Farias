@@ -1,4 +1,4 @@
-## Olá pessoal!
+## E aí galera!
 
 <p align="center">Estou me graduando em Ciência da Computação na URI - Santo Ângelo, ultimamente estou seguindo a abordagem de estudo da Rocketseat, que propõe a stack Javascript: NodeJS + ReactNative e React. Com essa stack é possível entregar soluções para web e mobile, o meu objetivo é me aprofundar na stack e posteriormente virar um programador Full Stack.</p>
 
