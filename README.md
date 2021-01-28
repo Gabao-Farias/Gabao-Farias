@@ -27,4 +27,9 @@
   <a href="https://www.instagram.com/gabaofarias/">
     <img src="https://img.shields.io/badge/-gabaofarias-f61?style=for-the-badge&labelColor=f61&logo=instagram&logoColor=white"/>
   </a>
+
+  <a href="https://www.instagram.com/gabaofarias/">
+    <img
+      src="https://img.shields.io/badge/-Gabrielfariasbass-191919?style=for-the-badge&labelColor=191919&logo=medium&logoColor=white"/>
+  </a>
 </div>
