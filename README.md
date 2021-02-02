@@ -33,9 +33,3 @@
       src="https://img.shields.io/badge/-Gabão-191919?style=for-the-badge&labelColor=191919&logo=medium&logoColor=white"/>
   </a>
 </div>
-
-<div align="center">
-  
-  ![visitors](https://page-views.glitch.me/badge?page_id=Gabao-Farias.Gabao-Farias)
-  
-</div>
