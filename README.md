@@ -28,13 +28,13 @@
     <img src="https://img.shields.io/badge/-gabaofarias-f61?style=for-the-badge&labelColor=f61&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="https://www.instagram.com/gabaofarias/">
+  <a href="https://medium.com/@gabrielfariasbass">
     <img
-      src="https://img.shields.io/badge/-Gabão-25D366?style=for-the-badge&labelColor=25D366&logo=WhatsApp&logoColor=white"/>
+      src="https://img.shields.io/badge/-Gabão-191919?style=for-the-badge&labelColor=191919&logo=medium&logoColor=white"/>
   </a>
   
   <a href="https://wa.me/5555997358826">
     <img
-      src="https://img.shields.io/badge/-Gabão-191919?style=for-the-badge&labelColor=191919&logo=medium&logoColor=white"/>
+      src="https://img.shields.io/badge/-Gabão-25D366?style=for-the-badge&labelColor=25D366&logo=WhatsApp&logoColor=white"
   </a>
 </div>
