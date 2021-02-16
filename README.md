@@ -11,7 +11,7 @@
 <br>
 <br>
 
-## Technologies
+## Technologies already used
 
 <!-- Front-end tools -->
 <a href="https://www.markdownguide.org/">
