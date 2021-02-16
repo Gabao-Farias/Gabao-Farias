@@ -35,10 +35,14 @@
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=61DAFB&logo=react&logoColor=black"/>
 </a>
 
-<!-- Linter -->
+<!-- Linting and formating -->
 <a href="https://eslint.org/">
     <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&labelColor=4B32C3&logo=eslint&logoColor=white"/>
 </a>
+<a href="https://eslint.org/">
+    <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&labelColor=F7B93E&logo=prettier&logoColor=black"/>
+</a>
+
 
 <!-- Back-end tools -->
 <a href="https://eslint.org/">
