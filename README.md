@@ -13,6 +13,8 @@
 
 ## Technologies already used
 
+<div align="center">
+
 <!-- Front-end tools -->
 <a href="https://www.markdownguide.org/">
     <img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&labelColor=000000&logo=markdown&logoColor=white"/>
@@ -75,6 +77,7 @@
     <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&labelColor=FFCA28&logo=firebase&logoColor=black"/>
 </a>
 
+</div>
 
 ## Social Media
 
