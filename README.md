@@ -83,7 +83,7 @@
 
 </div>
 
-## Social Media
+## Contact
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-taborda-farias-26b9b8160/">
