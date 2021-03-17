@@ -51,7 +51,7 @@
 <a href="https://www.java.com/pt-BR/">
     <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=007396&logo=java&logoColor=white"/>
 </a>
-<a href="https://www.java.com/pt-BR/">
+<a href="https://www.docker.com/">
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=2496ED&logo=Docker&logoColor=white"/>
 </a>
 
