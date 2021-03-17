@@ -39,17 +39,20 @@
 <a href="https://eslint.org/">
     <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&labelColor=4B32C3&logo=eslint&logoColor=white"/>
 </a>
-<a href="https://eslint.org/">
+<a href="https://prettier.io/">
     <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&labelColor=F7B93E&logo=prettier&logoColor=black"/>
 </a>
 
 
 <!-- Back-end tools -->
-<a href="https://eslint.org/">
+<a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/-Node-339933?style=for-the-badge&labelColor=339933&logo=node.js&logoColor=white"/>
 </a>
 <a href="https://www.java.com/pt-BR/">
     <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=007396&logo=java&logoColor=white"/>
+</a>
+<a href="https://www.java.com/pt-BR/">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=2496ED&logo=Docker&logoColor=white"/>
 </a>
 
 <!-- Versioning Tools -->
@@ -68,6 +71,9 @@
 </a>
 <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=4479A1&logo=mysql&logoColor=white"/>
+</a>
+<a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&labelColor=336791&logo=postgreSQL&logoColor=white"/>
 </a>
 
 <!-- Web Deploy Tools -->
