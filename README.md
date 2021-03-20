@@ -1,6 +1,6 @@
 ## Hello guys!
 
-<p align="center">I'm graduating in Computer Science on URI - Santo Ângelo. Lately I've been following the Rocketseat way to study, wich proposes a Javascript stack: NodeJS + ReactNative e React. With this stack, it's possible to deliver a solution both for web and mobile environments. I'm working out to reach my long term goals wich are reach a level wich I could create the entire application (or to have the knowledge to achieve this) in other words, becoming a fullstack developer and finish the graduation as soon as possible to move to Canada or Australia.</p>
+<p align="center">I'm graduating in Computer Science on URI - Santo Ângelo. Lately I've been following the Rocketseat way to study, wich proposes a Javascript stack: NodeJS + ReactNative and React. With this stack, it's possible to deliver a solution both for web and mobile environments. I'm working out to reach my long term goals wich are reach a level wich I could create the entire application (or to have the knowledge to achieve this) in other words, becoming a fullstack developer and finish the graduation as soon as possible to move to Canada or Australia.</p>
 
 <br>
 
