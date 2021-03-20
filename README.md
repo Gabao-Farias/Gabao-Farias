@@ -6,6 +6,7 @@
 
 <div align="center">
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gabao-Farias&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabao-Farias&&theme=chartreuse-dark&show_icons=true&langs_count=15" />
 </div>
 
 <br>
