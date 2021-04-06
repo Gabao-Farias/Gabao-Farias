@@ -10,6 +10,10 @@
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabao-Farias&&theme=chartreuse-dark&show_icons=true&langs_count=15" />
+  
+
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabao-Farias" />  
 </div>
 
 <br>
