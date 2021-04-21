@@ -40,6 +40,12 @@
 <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=3178C6&logo=typescript&logoColor=white"/>
 </a>
+<a href="https://eslint.org/">
+    <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=for-the-badge&labelColor=4B32C3&logo=eslint&logoColor=white"/>
+</a>
+<a href="https://prettier.io/">
+    <img src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&labelColor=F7B93E&logo=prettier&logoColor=black"/>
+</a>
 
 </div>
 
