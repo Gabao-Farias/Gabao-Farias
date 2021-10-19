@@ -64,6 +64,9 @@
 <a href="https://www.w3schools.com/css/">
     <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&labelColor=1572B6&logo=css3&logoColor=white"/>
 </a>
+<a href="https://mobx.js.org/README.html">
+    <img src="https://img.shields.io/badge/-MobX-FF9955?style=for-the-badge&labelColor=FF9955&logo=mobx&logoColor=white"/>
+</a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&labelColor=F7DF1E&logo=javascript&logoColor=black"/>
 </a>
@@ -158,3 +161,5 @@
   </a>
   -->
 </div>
+
+<!-- Icons can be found on https://simpleicons.org/ -->
