@@ -76,6 +76,9 @@
 <a href="https://pt-br.reactjs.org/">
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=61DAFB&logo=react&logoColor=black"/>
 </a>
+<a href="https://styled-components.com/">
+    <img src="https://img.shields.io/badge/-StyledComponents-DB7093?style=for-the-badge&labelColor=DB7093&logo=styled-components&logoColor=white"/>
+</a>
 
 <!-- Linting and formating -->
 <a href="https://eslint.org/">
