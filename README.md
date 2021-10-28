@@ -128,6 +128,11 @@
     <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&labelColor=FFCA28&logo=firebase&logoColor=black"/>
 </a>
 
+<!-- Testing tools -->
+<a href="https://jestjs.io/">
+    <img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&labelColor=C21325&logo=jest&logoColor=white"/>
+</a>
+
 </div>
 
 ## Contact
