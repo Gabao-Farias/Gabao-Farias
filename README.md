@@ -1,8 +1,14 @@
 ## Hello guys!
 
-<p align="center">I'm graduating in Computer Science on URI - Santo Ângelo. Lately I've been following the Rocketseat way to study, wich proposes a Javascript stack: NodeJS + ReactNative and React. With this stack, it's possible to deliver a solution both for web and mobile environments. I'm working out to reach my long term goals wich are reach a level wich I could create the entire application (or to have the knowledge to achieve this) in other words, becoming a fullstack developer and finish the graduation as soon as possible to move to Canada or Australia.</p>
+<p align="center">I'm graduating in Computer Science on URI - Santo Ângelo. Lately I've been following the Rocketseat way to study, wich proposes a Javascript stack: NodeJS + ReactNative and React. With this stack, it's possible to deliver a solution both for web and mobile environments. I'm working out to reach my long term goals wich are reach a level wich I could create the entire application (or to have the knowledge to achieve this) in other words, becoming a fullstack developer and finish the graduation as soon as possible.</p>
+
+## Personal portfolio
+
+https://exquisite-fox-451e0f.netlify.app/
 
 <br>
+
+## Stats
 
 <div align="center">
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Gabao-Farias&show_icons=true&theme=radical" />
@@ -10,7 +16,8 @@
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabao-Farias&&theme=chartreuse-dark&show_icons=true&langs_count=15" />
-  
+</div>
+
 <!--
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabao-Farias" />  
