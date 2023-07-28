@@ -1,6 +1,10 @@
 ## Hello guys!
 
-<p align="center">I'm graduating in Computer Science on URI - Santo Ângelo. Lately I've been following the Rocketseat way to study, wich proposes a Javascript stack: NodeJS + ReactNative and React. With this stack, it's possible to deliver a solution both for web and mobile environments. I'm working out to reach my long term goals wich are reach a level wich I could create the entire application (or to have the knowledge to achieve this) in other words, becoming a fullstack developer and finish the graduation as soon as possible.</p>
+Hi, I'm Gabão! I started my journey on technology in 2018, and I've been studying and working since then. If you need help in the front-end in the Web or Mobile context, I could be very helpful in guiding the development.
+
+* Focusing in: Web Front-End and Mobile
+* Highest Education: Bachelor's (2023)
+* Fun fact: I'm a bassist
 
 ## Personal portfolio
 
