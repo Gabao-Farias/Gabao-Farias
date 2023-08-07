@@ -7,8 +7,7 @@ Hi, I'm Gabão! I started my journey on technology in 2018, and I've been studyi
 * Fun fact: I'm a bassist
 
 ## Personal portfolio
-
-https://exquisite-fox-451e0f.netlify.app/
+https://gabao-farias.github.io/portfolio/
 
 <br>
 
