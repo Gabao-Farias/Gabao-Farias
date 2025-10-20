@@ -2,7 +2,7 @@
 
 Hi, I'm Gabão! I started my journey on technology in 2018, and I've been studying and working since then. If you need help in the front-end in the Web or Mobile context, I could be very helpful in guiding the development.
 
-* Focusing in: Infrastructure and AI
+* Focusing in: AI
 * Highest Education: Computer Science Bachelor's (2023)
 * Fun fact: I'm a bassist
 
